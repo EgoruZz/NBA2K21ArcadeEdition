@@ -1,4 +1,4 @@
-# NBA2K21ArcadeEdition
+# NBA2K21ArcadeEditionv1.0
 Making its highly-anticipated debut on Apple Arcade, NBA 2K21 puts you on the court with today’s top NBA stars like Damian Lillard, Kevin Durant, Steph Curry, Zion Williamson, and Anthony Davis. Hack from EgoruZz v1.0 Game version 1.0
 
 ![NBA2K21ArcadeEdition](https://user-images.githubusercontent.com/82104796/114220406-a1847280-9974-11eb-90a9-1cb14d6a23cb.jpg)
